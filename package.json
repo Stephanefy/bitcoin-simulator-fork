@@ -75,7 +75,7 @@
     "node": ">=6.0.0"
   },
   "scripts": {
-    "start": "npm install --legacy-peer-deps && nps",
+    "start": "nps",
     "test": "nps test"
   },
   "main": "dist/app.bundle.js"

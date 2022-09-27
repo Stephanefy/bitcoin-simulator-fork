@@ -75,7 +75,7 @@
     "node": "16.17.1"
   },
   "scripts": {
-    "start": "nps",
+    "start": "npm install && nps",
     "test": "nps test"
   },
   "main": "dist/app.bundle.js"
